@@ -1,0 +1,57 @@
+-# 👋 Olá, eu sou a Carol (@carolmariani87)
+
+🎓 Estudante de Química no último semestre, apaixonada por tecnologia e inovação.  
+💼 Empreendedora — fundadora de uma pequena empresa de cosméticos artesanais.  
+🧠 Atualmente, estou expandindo meus horizontes para o universo da **Inteligência Artificial**!
+
+---
+
+## 🚀 Interesses
+
+- 🤖 Inteligência Artificial aplicada em diversas áreas
+- 💬 Engenharia de Prompts para IA generativa
+- 🔢 Lógica de programação e automação
+- 🧪 Interseção entre ciência, cosmética e tecnologia
+
+---
+
+## 📚 Atualmente aprendendo
+
+- 🧠 Engenharia de Prompts
+- 🔁 Git & GitHub
+- 🧮 Lógica de Programação
+- 🐍 Python
+
+---
+
+## 🤝 Estou aberta a colaborar com:
+
+- Projetos de iniciação em IA
+- Ideias criativas para IA no cotidiano
+- Comunidades de tecnologia inclusiva
+- Hackathons e estudos em grupo
+
+---
+
+## 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/carolinemariani87/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carolmariani87)
+
+---
+
+## 💡 Fun fact
+
+Já dei aulas de informática e web design por 11 anos!  
+Hoje estou redescobrindo esse universo com novas tecnologias e muita vontade de aprender 📈✨
+
+---
+
+<!--
+carolmariani87/carolmariani87 é um repositório especial: seu README.md aparece no seu perfil GitHub.
+-->
+
+<!---
+carolmariani87/carolmariani87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
