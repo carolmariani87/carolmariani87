@@ -22,10 +22,23 @@
 - 🧮 Lógica de Programação
 - 🐍 Python
 
-💻 Minhas Tecnologias
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/> </p>
-📚 Cursos e Certificados
-Curso	Certificado
+## 💻 Minhas Tecnologias
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
+</p>
+
+---
+
+## 📚 Cursos e Certificados
+
+| **Curso**                                      | **Certificado**                                                 |
+|------------------------------------------------|------------------------------------------------------------------|
+| Microsoft 50 Anos - Prompts Inteligentes       | [Ver Certificado](https://hermes.dio.me/certificates/UX8PQMJ6.pdf) |
+| Fundamentos da Engenharia de Prompts           | [Ver Certificado](https://hermes.dio.me/certificates/WXHQSV0A.pdf) |
+| Formação Lógica de Programação                 | [Ver Certificado](https://hermes.dio.me/certificates/WUR372ZA.pdf) |
 
 
 
