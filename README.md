@@ -23,7 +23,7 @@
 - 🐍 Python
 
 💻 Minhas Tecnologias
-<p align="left"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://commons.wikimedia.org/wiki/File:HTML5_oval_logo.png)" alt="HTML5" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/> </p>
 📚 Cursos e Certificados
 Curso	Certificado
 
