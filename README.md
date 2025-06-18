@@ -1,4 +1,4 @@
--# 👋 Olá, eu sou a Carol (@carolmariani87)
+-# 👋 Olá,sejam bem-vindos ao meu github! Eu sou a Carol (@carolmariani87)
 
 🎓 Estudante de Química no último semestre, apaixonada por tecnologia e inovação.  
 💼 Empreendedora — fundadora de uma pequena empresa de cosméticos artesanais.  
