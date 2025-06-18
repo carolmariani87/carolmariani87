@@ -2,9 +2,11 @@
 
 🎓 Estudante de Química no último semestre, apaixonada por tecnologia e inovação.  
 💼 Empreendedora — Fundadora da Frésia Cosmética Brasileira - Uma pequena empresa de cosméticos capilares saudáveis 
+
 🧠 Atualmente, estou expandindo meus horizontes para o universo da **Inteligência Artificial**!
 
 ---
+
 
 ## 🚀 Interesses
 
